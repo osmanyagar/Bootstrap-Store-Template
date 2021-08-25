@@ -1,0 +1,19 @@
+.table {
+  margin: auto;
+  width: 50% !important; 
+}
+
+.container {
+    padding: 1rem 0rem;
+  }
+  
+  h4 {
+    margin: 2rem 0rem 1rem;
+  }
+  td {
+    vertical-align: middle;
+    text-align: center;
+ }
+  
+  
+
